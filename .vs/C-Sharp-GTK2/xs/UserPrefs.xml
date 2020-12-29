@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{D79D478E-D19F-419C-8CBC-9E665E8B9B5C}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C-Sharp-GTK2" expanded="True">
+            <Node name="C-Sharp-GTK2" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.C-Sharp-GTK2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
